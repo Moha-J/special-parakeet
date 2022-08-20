@@ -1,0 +1,16 @@
+C:\Users\Lia\source\repos\TPS_core\TPS_core\bin\Release\netcoreapp3.1\TPS_core.exe
+C:\Users\Lia\source\repos\TPS_core\TPS_core\bin\Release\netcoreapp3.1\TPS_core.deps.json
+C:\Users\Lia\source\repos\TPS_core\TPS_core\bin\Release\netcoreapp3.1\TPS_core.runtimeconfig.json
+C:\Users\Lia\source\repos\TPS_core\TPS_core\bin\Release\netcoreapp3.1\TPS_core.runtimeconfig.dev.json
+C:\Users\Lia\source\repos\TPS_core\TPS_core\bin\Release\netcoreapp3.1\TPS_core.dll
+C:\Users\Lia\source\repos\TPS_core\TPS_core\bin\Release\netcoreapp3.1\TPS_core.pdb
+C:\Users\Lia\source\repos\TPS_core\TPS_core\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lia\source\repos\TPS_core\TPS_core\obj\Release\netcoreapp3.1\TPS_core.csproj.AssemblyReference.cache
+C:\Users\Lia\source\repos\TPS_core\TPS_core\obj\Release\netcoreapp3.1\TPS_core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lia\source\repos\TPS_core\TPS_core\obj\Release\netcoreapp3.1\TPS_core.AssemblyInfoInputs.cache
+C:\Users\Lia\source\repos\TPS_core\TPS_core\obj\Release\netcoreapp3.1\TPS_core.AssemblyInfo.cs
+C:\Users\Lia\source\repos\TPS_core\TPS_core\obj\Release\netcoreapp3.1\TPS_core.csproj.CoreCompileInputs.cache
+C:\Users\Lia\source\repos\TPS_core\TPS_core\obj\Release\netcoreapp3.1\TPS_core.csproj.CopyComplete
+C:\Users\Lia\source\repos\TPS_core\TPS_core\obj\Release\netcoreapp3.1\TPS_core.dll
+C:\Users\Lia\source\repos\TPS_core\TPS_core\obj\Release\netcoreapp3.1\TPS_core.pdb
+C:\Users\Lia\source\repos\TPS_core\TPS_core\obj\Release\netcoreapp3.1\TPS_core.genruntimeconfig.cache
